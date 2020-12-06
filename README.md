@@ -2,7 +2,7 @@
 
 :octocat: **경력사항**
 
-1. [데이타솔루션](http://www.datasolution.kr/)(2014.12 ~ 2016.10)    
+1. [데이타솔루션](http://www.datasolution.kr/) (2014.12 ~ 2016.10)    
 2. [유한화학](http://www.yuhanchem.co.kr) (2017.03 ~ 2019.08)  
 3. [위메프](http://www.wemakeprice.com) (2020.02 ~ 현재)  
 
