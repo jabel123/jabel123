@@ -11,6 +11,8 @@
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://honeyinfo7.tistory.com/)](https://honeyinfo7.tistory.com/)
 
+:octocat: **좋아하는 연예인 : 요요미**  
+[![Video Label](https://i.ytimg.com/an_webp/Pvtevfs3S08/mqdefault_6s.webp?du=3000&sqp=CISBloEG&rs=AOn4CLBkc348c41pZVepbr00tQ8uLglBfg)](https://youtu.be/Pvtevfs3S08)
 
 안녕하세요 주현태입니다.   
 2021년의 목표는 github 잔디밭이 모두 녹색이 되는 것입니다.
