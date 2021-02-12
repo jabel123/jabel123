@@ -13,7 +13,7 @@
 
 :octocat: **좋아하는 연예인 : 요요미**  
 </br>
-[![Video Label](https://i.ytimg.com/an_webp/aeKMZyio47E/mqdefault_6s.webp?du=3000&sqp=CJuamIEG&rs=AOn4CLB78C_C64oeFnTUouiHDW0vb9o_8A)](https://youtu.be/aeKMZyio47E)
+[![Video Label](https://user-images.githubusercontent.com/19848981/107831217-e48cf400-6dd0-11eb-9ad8-37422588adc0.gif)](https://youtu.be/aeKMZyio47E)
 
 안녕하세요 주현태입니다.   
 2021년의 목표는 github 잔디밭이 모두 녹색이 되는 것입니다.
