@@ -11,6 +11,14 @@
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://honeyinfo7.tistory.com/)](https://honeyinfo7.tistory.com/)
 
+:octocat: **개인프로젝트**
+1. [중고책팔기](https://play.google.com/store/apps/details?id=com.copocalypse.bookseller)
+2. [웃긴유머모음](https://play.google.com/store/apps/details?id=com.copocalypse.humorcrCrawlingWeb)
+
+:octocat: **블로그**
+1. [tistory 블로그](https://honeyinfo7.tistory.com/)
+2. [네이버 블로그](https://blog.naver.com/jabel123)
+
 :octocat: **좋아하는 연예인 : 요요미**  
 </br>
 [![Video Label](https://user-images.githubusercontent.com/19848981/107831217-e48cf400-6dd0-11eb-9ad8-37422588adc0.gif)](https://youtu.be/aeKMZyio47E)
