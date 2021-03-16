@@ -19,6 +19,12 @@
 1. [tistory 블로그](https://honeyinfo7.tistory.com/)
 2. [네이버 블로그](https://blog.naver.com/jabel123)
 
+:octocat: **관심있는 기술**
+- Spring
+- Docker
+- Git
+- Kafka
+
 :octocat: **좋아하는 연예인 : 요요미**  
 </br>
 [![Video Label](https://user-images.githubusercontent.com/19848981/107831217-e48cf400-6dd0-11eb-9ad8-37422588adc0.gif)](https://youtu.be/aeKMZyio47E)
