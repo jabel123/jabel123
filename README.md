@@ -21,8 +21,8 @@
 
 :octocat: **관심있는 기술**
 - Spring
-- Docker
 - Git
+- Docker
 - Kafka
 
 :octocat: **좋아하는 연예인 : 요요미**  
