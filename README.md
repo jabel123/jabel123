@@ -25,9 +25,5 @@
 - Docker
 - Kafka
 
-:octocat: **좋아하는 연예인 : 요요미**  
-</br>
-[![Video Label](https://user-images.githubusercontent.com/19848981/107831217-e48cf400-6dd0-11eb-9ad8-37422588adc0.gif)](https://youtu.be/aeKMZyio47E)
-
 안녕하세요 주현태입니다.   
 2021년의 목표는 github 잔디밭이 모두 녹색이 되는 것입니다.
