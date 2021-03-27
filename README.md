@@ -22,6 +22,7 @@
 
 안녕하세요 주현태입니다.   
 2021년의 목표는 github 잔디밭이 모두 녹색이 되는 것입니다.
+가즈아~@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jabel123&show_icons=true&theme=radical)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://honeyinfo7.tistory.com/)](https://honeyinfo7.tistory.com/)
