@@ -21,6 +21,7 @@
 - Git
 - Docker
 - Kafka
+- Elasticsearch
 
 안녕하세요 주현태입니다.   
 2021년의 목표는 github 잔디밭이 모두 녹색이 되는 것입니다.
