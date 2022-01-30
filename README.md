@@ -26,8 +26,11 @@
 - Elasticsearch
 
 안녕하세요 주현태입니다.   
-2021년의 목표는 github 잔디밭이 모두 녹색이 되는 것입니다.
-가즈아~@
+2022년의 목표는 다음과 같습니다.
+1. [tistory 블로그](https://honeyinfo7.tistory.com/)의 1일방문자가 1000명이 넘는것
+2. 관심있는 기술에 대해 더욱 성숙해지기
+3. 매일 한번은 스스로 생각을 조금이라도 하는 코드를 작성하기. (새로운 기술을 써보거나, 알고리즘 쉬운문제라도 매일 풀어보기)
+4. 매주 블로그글 1회 작성하기
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jabel123&show_icons=true&theme=radical)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://honeyinfo7.tistory.com/)](https://honeyinfo7.tistory.com/)
