@@ -12,7 +12,6 @@
 2. [웃긴유머모음](https://play.google.com/store/apps/details?id=com.copocalypse.humorcrCrawlingWeb)
 3. [공부타이머](https://play.google.com/store/apps/details?id=com.tistory.mythinkwrite.studytimer)
 4. [금연도우미](https://play.google.com/store/apps/details?id=com.tistory.honeyinfo7.stopsmoking)
-5. [코인정보](https://play.google.com/store/apps/details?id=com.tistory.honeyinfo7.coincommunityapp)
 
 :octocat: **블로그**
 1. [tistory 블로그](https://honeyinfo7.tistory.com/)
