@@ -4,7 +4,8 @@
 
 1. [데이타솔루션](http://www.datasolution.kr/) (2014.12 ~ 2016.10)    
 2. [유한화학](http://www.yuhanchem.co.kr) (2017.03 ~ 2019.08)  
-3. [위메프](http://www.wemakeprice.com) (2020.02 ~ 현재)  
+3. [위메프](http://www.wemakeprice.com) (2020.02 ~ 2022.03)  
+4. [11번가](https://11st.co.kr/) (2020.04 ~ 현재)  
 
 :octocat: **개인프로젝트**
 
