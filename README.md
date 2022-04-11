@@ -2,10 +2,10 @@
 
 :octocat: **경력사항**
 
-1. [데이타솔루션](http://www.datasolution.kr/) (2014.12 ~ 2016.10)    
-2. [유한화학](http://www.yuhanchem.co.kr) (2017.03 ~ 2019.08)  
-3. [위메프](http://www.wemakeprice.com) (2020.02 ~ 2022.03)  
-4. [11번가](https://11st.co.kr/) (2020.04 ~ 현재)  
+1. [11번가](https://11st.co.kr/) (2020.04 ~ 현재)  
+2. [위메프](http://www.wemakeprice.com) (2020.02 ~ 2022.03)  
+3. [유한화학](http://www.yuhanchem.co.kr) (2017.03 ~ 2019.08)  
+4. [데이타솔루션](http://www.datasolution.kr/) (2014.12 ~ 2016.10)    
 
 :octocat: **개인프로젝트**
 
@@ -20,6 +20,7 @@
 
 :octocat: **관심있는 기술**
 - Spring
+- Oracle
 - Git
 - Docker
 - Kafka
