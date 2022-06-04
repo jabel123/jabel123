@@ -47,5 +47,3 @@
 [2022/02/13 - Equals를 재정의할때 반드시 hashCode를 재정의 해야한다.](https://honeyinfo7.tistory.com/322) <br/>
 [2022/01/25 - i = i + 1, i++ 의 차이](https://honeyinfo7.tistory.com/321) <br/>
 [2022/01/19 - Minikube 및 testContainer(Docker이용한 테스트) 세팅 feat_Docker Desktop 유료화](https://honeyinfo7.tistory.com/320) <br/>
-[2022/01/08 - HikraiCP에 대해서 알아보자](https://honeyinfo7.tistory.com/319) <br/>
-[2021/12/29 - 안드로이드 스튜디오 에뮬레이터 초기화시키기](https://honeyinfo7.tistory.com/317) <br/>
