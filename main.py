@@ -47,16 +47,18 @@ markdown_text = """
 """ # list of blog posts will be appended here
 
 j=0
+MAX_POST=10
 for i in feed['entries']:
     j+= 1
-    if j >5:
+    if j > MAX_POST:
         break
     else:
-        dt = datetime.datetime.strptime(i['published'], "%a, %d %B %Y %H:%M:%S %z").strftime("%B %d, %Y")
+        # dt = datetime.datetime.strptime(i['published'], "%a, %d %B %Y %H:%M:%S %z").strftime("%B %d, %Y")
         # dt = i['published']
-        markdown_text += f"[{i['title']}]({i['link']}) - {dt}<br>\n"
+        # markdown_text += f"[{i['title']}]({i['link']}) - {dt}<br>\n"
         # markdown_text += f"[{i['title']}]({i['link']}) <br>\n"
-        print(i['link'], i['title'])
+        feed_date = feed['published_parsed']
+        markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n"
 
 f = open("README.md",mode="w", encoding="utf-8")
 f.write(markdown_text)
