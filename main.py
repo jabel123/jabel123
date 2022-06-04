@@ -2,7 +2,7 @@ import feedparser, time
 
 URL="http://honeyinfo7.tistory.com/rss"
 RSS_FEED = feedparser.parse(URL)
-MAX_POST=10
+MAX_POST=7
 
 markdown_text = """
 **Backend Engineer 주현태**
