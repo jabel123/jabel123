@@ -57,7 +57,7 @@ for i in feed['entries']:
         # dt = i['published']
         # markdown_text += f"[{i['title']}]({i['link']}) - {dt}<br>\n"
         # markdown_text += f"[{i['title']}]({i['link']}) <br>\n"
-        feed_date = feed['published']
+        feed_date = i['published']
         markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n"
 
 f = open("README.md",mode="w", encoding="utf-8")
