@@ -1,4 +1,4 @@
-import feedparser, datetime
+import feedparser, time
 
 RSS_FEED="http://honeyinfo7.tistory.com/rss"
 feed = feedparser.parse(RSS_FEED)
