@@ -1,7 +1,7 @@
 import feedparser, datetime
 
-velog_blog_rss_uri="http://honeyinfo7.tistory.com/rss"
-feed = feedparser.parse(velog_blog_rss_uri)
+RSS_FEED="http://honeyinfo7.tistory.com/rss"
+feed = feedparser.parse(RSS_FEED)
 
 markdown_text = """
 **Backend Engineer 주현태**
@@ -57,7 +57,7 @@ for i in feed['entries']:
         # dt = i['published']
         # markdown_text += f"[{i['title']}]({i['link']}) - {dt}<br>\n"
         # markdown_text += f"[{i['title']}]({i['link']}) <br>\n"
-        feed_date = feed['published_parsed']
+        feed_date = feed['published']
         markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n"
 
 f = open("README.md",mode="w", encoding="utf-8")
