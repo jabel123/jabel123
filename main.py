@@ -1,7 +1,8 @@
 import feedparser, time
 
-RSS_FEED="http://honeyinfo7.tistory.com/rss"
-feed = feedparser.parse(RSS_FEED)
+URL="http://honeyinfo7.tistory.com/rss"
+RSS_FEED = feedparser.parse(URL)
+MAX_POST=10
 
 markdown_text = """
 **Backend Engineer 주현태**
@@ -46,13 +47,13 @@ markdown_text = """
 ### ✍ Recent blog posts 
 """ # list of blog posts will be appended here
 
-MAX_POST=10
-for idx, feed_obj in enumerate(feed['entries']):
+
+for idx, feed in enumerate(RSS_FEED['entries']):
     if idx > MAX_POST:
         break
     else:
         feed_date = feed_obj['published']
-        markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed_obj['title']}]({feed_obj['link']}) <br/>\n"
+        markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n"
 
 f = open("README.md",mode="w", encoding="utf-8")
 f.write(markdown_text)
