@@ -39,8 +39,13 @@
 
 
 ### ✍ Recent blog posts 
-[git 히스토리에 실수로 추가한 용량큰 파일 찾아 제거하기](https://honeyinfo7.tistory.com/327) - Sat, 14 May 2022 19:31:54 +0900<br>
-[위메프 퇴사 회고 (2022년 3월)](https://honeyinfo7.tistory.com/326) - Thu, 07 Apr 2022 19:13:17 +0900<br>
-[Cookie는 왜쓰는가? 그리고 Cookie관련 간단한 자바 예제](https://honeyinfo7.tistory.com/325) - Sun, 06 Mar 2022 14:17:25 +0900<br>
-[FeignClient 사용시 GET요청시 인자를 추가하기 (@SpringQueryMap)](https://honeyinfo7.tistory.com/324) - Sun, 27 Feb 2022 22:22:28 +0900<br>
-[ThreadLocal과 스프링의 트랜잭션 관리](https://honeyinfo7.tistory.com/323) - Sun, 20 Feb 2022 18:45:20 +0900<br>
+[2022/05/14 - git 히스토리에 실수로 추가한 용량큰 파일 찾아 제거하기](https://honeyinfo7.tistory.com/327) <br/>
+[2022/04/07 - 위메프 퇴사 회고 (2022년 3월)](https://honeyinfo7.tistory.com/326) <br/>
+[2022/03/06 - Cookie는 왜쓰는가? 그리고 Cookie관련 간단한 자바 예제](https://honeyinfo7.tistory.com/325) <br/>
+[2022/02/27 - FeignClient 사용시 GET요청시 인자를 추가하기 (@SpringQueryMap)](https://honeyinfo7.tistory.com/324) <br/>
+[2022/02/20 - ThreadLocal과 스프링의 트랜잭션 관리](https://honeyinfo7.tistory.com/323) <br/>
+[2022/02/13 - Equals를 재정의할때 반드시 hashCode를 재정의 해야한다.](https://honeyinfo7.tistory.com/322) <br/>
+[2022/01/25 - i = i + 1, i++ 의 차이](https://honeyinfo7.tistory.com/321) <br/>
+[2022/01/19 - Minikube 및 testContainer(Docker이용한 테스트) 세팅 feat_Docker Desktop 유료화](https://honeyinfo7.tistory.com/320) <br/>
+[2022/01/08 - HikraiCP에 대해서 알아보자](https://honeyinfo7.tistory.com/319) <br/>
+[2021/12/29 - 안드로이드 스튜디오 에뮬레이터 초기화시키기](https://honeyinfo7.tistory.com/317) <br/>
