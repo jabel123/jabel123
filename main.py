@@ -54,8 +54,8 @@ for i in feed['entries']:
     else:
         # dt = datetime.datetime.strptime(i['published'], "%a, %d %B %Y %H:%M:%S %z").strftime("%B %d, %Y")
         dt = i['published']
-        # markdown_text += f"[{i['title']}]({i['link']}) - {dt}<br>\n"
-        markdown_text += f"[{i['title']}]({i['link']}) <br>\n"
+        markdown_text += f"[{i['title']}]({i['link']}) - {dt}<br>\n"
+        # markdown_text += f"[{i['title']}]({i['link']}) <br>\n"
         print(i['link'], i['title'])
 
 f = open("README.md",mode="w", encoding="utf-8")
