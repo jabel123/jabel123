@@ -47,7 +47,7 @@ markdown_text = """
 """ # list of blog posts will be appended here
 
 MAX_POST=10
-for idx, feed_obj in feed['entries']:
+for idx, feed_obj in enumerate(feed['entries']):
     if idx > MAX_POST:
         break
     else:
