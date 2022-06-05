@@ -39,6 +39,7 @@
 
 
 ### ✍ Recent blog posts 
+[2022/06/04 - Github README 하단에 내 최신 블로그글 올라오게 하기](https://honeyinfo7.tistory.com/328) <br/>
 [2022/05/14 - git 히스토리에 실수로 추가한 용량큰 파일 찾아 제거하기](https://honeyinfo7.tistory.com/327) <br/>
 [2022/04/07 - 위메프 퇴사 회고 (2022년 3월)](https://honeyinfo7.tistory.com/326) <br/>
 [2022/03/06 - Cookie는 왜쓰는가? 그리고 Cookie관련 간단한 자바 예제](https://honeyinfo7.tistory.com/325) <br/>
@@ -46,4 +47,3 @@
 [2022/02/20 - ThreadLocal과 스프링의 트랜잭션 관리](https://honeyinfo7.tistory.com/323) <br/>
 [2022/02/13 - Equals를 재정의할때 반드시 hashCode를 재정의 해야한다.](https://honeyinfo7.tistory.com/322) <br/>
 [2022/01/25 - i = i + 1, i++ 의 차이](https://honeyinfo7.tistory.com/321) <br/>
-[2022/01/19 - Minikube 및 testContainer(Docker이용한 테스트) 세팅 feat_Docker Desktop 유료화](https://honeyinfo7.tistory.com/320) <br/>
