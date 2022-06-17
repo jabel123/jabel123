@@ -39,6 +39,7 @@
 
 
 ### ✍ Recent blog posts 
+[2022/06/17 - SQLD 자격검정 합격 후기(2022.06.17)](https://honeyinfo7.tistory.com/329) <br/>
 [2022/06/04 - Github README 하단에 내 최신 블로그글 올라오게 하기](https://honeyinfo7.tistory.com/328) <br/>
 [2022/05/14 - git 히스토리에 실수로 추가한 용량큰 파일 찾아 제거하기](https://honeyinfo7.tistory.com/327) <br/>
 [2022/04/07 - 위메프 퇴사 회고 (2022년 3월)](https://honeyinfo7.tistory.com/326) <br/>
@@ -46,4 +47,3 @@
 [2022/02/27 - FeignClient 사용시 GET요청시 인자를 추가하기 (@SpringQueryMap)](https://honeyinfo7.tistory.com/324) <br/>
 [2022/02/20 - ThreadLocal과 스프링의 트랜잭션 관리](https://honeyinfo7.tistory.com/323) <br/>
 [2022/02/13 - Equals를 재정의할때 반드시 hashCode를 재정의 해야한다.](https://honeyinfo7.tistory.com/322) <br/>
-[2022/01/25 - i = i + 1, i++ 의 차이](https://honeyinfo7.tistory.com/321) <br/>
