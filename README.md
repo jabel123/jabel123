@@ -39,6 +39,7 @@
 
 
 ### ✍ Recent blog posts 
+[2022/07/14 - ORACLE Squence 초기화 시키는 프로시저](https://honeyinfo7.tistory.com/331) <br/>
 [2022/06/20 - [Git] Unlink of file Failed. Should I try again?](https://honeyinfo7.tistory.com/330) <br/>
 [2022/06/17 - SQLD 자격검정 합격 후기(2022.06.17)](https://honeyinfo7.tistory.com/329) <br/>
 [2022/06/04 - Github README 하단에 내 최신 블로그글 올라오게 하기](https://honeyinfo7.tistory.com/328) <br/>
@@ -46,4 +47,3 @@
 [2022/04/07 - 위메프 퇴사 회고 (2022년 3월)](https://honeyinfo7.tistory.com/326) <br/>
 [2022/03/06 - Cookie는 왜쓰는가? 그리고 Cookie관련 간단한 자바 예제](https://honeyinfo7.tistory.com/325) <br/>
 [2022/02/27 - FeignClient 사용시 GET요청시 인자를 추가하기 (@SpringQueryMap)](https://honeyinfo7.tistory.com/324) <br/>
-[2022/02/20 - ThreadLocal과 스프링의 트랜잭션 관리](https://honeyinfo7.tistory.com/323) <br/>
