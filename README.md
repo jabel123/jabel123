@@ -27,6 +27,8 @@
 - Kafka
 - Elasticsearch
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=jihyun11&row=1)](https://github.com/ryo-ma/github-profile-trophy)<br><br>
+
 안녕하세요 주현태입니다.   
 2022년의 목표는 다음과 같습니다.
 1. [tistory 블로그](https://honeyinfo7.tistory.com/)의 1일방문자가 1000명이 넘는것
