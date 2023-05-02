@@ -39,6 +39,7 @@
 
 
 ### ✍ Recent blog posts 
+[2023/05/01 - 안드로이드 에뮬레이터가 localhost 접근 불가 [Flutter] Error: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = 127.0.0.1 버그](https://honeyinfo7.tistory.com/337) <br/>
 [2023/04/16 - 서비스 클래스는 인터페이스를 상속받아야 하는가?](https://honeyinfo7.tistory.com/336) <br/>
 [2023/02/05 - 안드로이드 스튜디오 에뮬레이터의 다운로드 폴더접근](https://honeyinfo7.tistory.com/335) <br/>
 [2023/01/29 - Failed to load JVM DDL 에러 나면서 Android Studio 설치 안될때](https://honeyinfo7.tistory.com/334) <br/>
@@ -46,4 +47,3 @@
 [2022/12/11 - PostMan으로 Mock서버 만들기](https://honeyinfo7.tistory.com/332) <br/>
 [2022/07/14 - ORACLE Squence 초기화 시키는 프로시저](https://honeyinfo7.tistory.com/331) <br/>
 [2022/06/20 - [Git] Unlink of file Failed. Should I try again?](https://honeyinfo7.tistory.com/330) <br/>
-[2022/06/17 - SQLD 자격검정 합격 후기(2022.06.17)](https://honeyinfo7.tistory.com/329) <br/>
