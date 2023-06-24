@@ -23,7 +23,6 @@
 - Spring
 - Oracle
 - Git
-- Docker
 - Kafka
 - Elasticsearch
 
