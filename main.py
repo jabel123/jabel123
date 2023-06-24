@@ -29,7 +29,6 @@ markdown_text = """
 - Spring
 - Oracle
 - Git
-- Docker
 - Kafka
 - Elasticsearch
 
