@@ -24,6 +24,7 @@
 
 
 ### ✍ Recent blog posts 
+[2023/07/11 - s3와 cloudfront 연동하기](https://honeyinfo7.tistory.com/338) <br/>
 [2023/05/01 - 안드로이드 에뮬레이터가 localhost 접근 불가 [Flutter] Error: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = 127.0.0.1 버그](https://honeyinfo7.tistory.com/337) <br/>
 [2023/04/16 - 서비스 클래스는 인터페이스를 상속받아야 하는가?](https://honeyinfo7.tistory.com/336) <br/>
 [2023/02/05 - 안드로이드 스튜디오 에뮬레이터의 다운로드 폴더접근](https://honeyinfo7.tistory.com/335) <br/>
@@ -31,4 +32,3 @@
 [2023/01/08 - [intellij] 클래스의 멤버변수와 메소드를 한눈에 보는 단축키](https://honeyinfo7.tistory.com/333) <br/>
 [2022/12/11 - PostMan으로 Mock서버 만들기](https://honeyinfo7.tistory.com/332) <br/>
 [2022/07/14 - ORACLE Squence 초기화 시키는 프로시저](https://honeyinfo7.tistory.com/331) <br/>
-[2022/06/20 - [Git] Unlink of file Failed. Should I try again?](https://honeyinfo7.tistory.com/330) <br/>
