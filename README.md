@@ -21,14 +21,3 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jabel123&show_icons=true&theme=radical)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://honeyinfo7.tistory.com/)](https://honeyinfo7.tistory.com/)  
-
-
-### ✍ Recent blog posts 
-[2023/10/09 - Oracle Join시 Join 메서드 선택 전략](https://honeyinfo7.tistory.com/345) <br/>
-[2023/09/24 - 자주 사용되는 오라클 힌트](https://honeyinfo7.tistory.com/344) <br/>
-[2023/08/15 - 위메프 면접 스크립트의 추억. (릿코드 414. Third Maximum Number)](https://honeyinfo7.tistory.com/343) <br/>
-[2023/08/04 - Flutter 프로젝트 git push후 다시 내려받을때 이슈](https://honeyinfo7.tistory.com/342) <br/>
-[2023/07/29 - JPA 1차캐시와 2차캐시](https://honeyinfo7.tistory.com/341) <br/>
-[2023/07/16 - CloudFront, Route53 연결하기](https://honeyinfo7.tistory.com/340) <br/>
-[2023/07/15 - 나는 계획파 vs 행동파?](https://honeyinfo7.tistory.com/339) <br/>
-[2023/07/11 - s3와 cloudfront 연동하기](https://honeyinfo7.tistory.com/338) <br/>
