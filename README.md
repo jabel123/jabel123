@@ -8,13 +8,6 @@
 3. [유한화학](http://www.yuhanchem.co.kr) (2017.03 ~ 2019.08)  
 4. [데이타솔루션](http://www.datasolution.kr/) (2014.12 ~ 2016.10)    
 
-:octocat: **개인프로젝트**
-
-1. [중고책팔기](https://play.google.com/store/apps/details?id=com.copocalypse.bookseller)
-2. [웃긴유머모음](https://play.google.com/store/apps/details?id=com.copocalypse.humorcrCrawlingWeb)
-3. [공부타이머](https://play.google.com/store/apps/details?id=com.tistory.mythinkwrite.studytimer)
-4. [금연도우미](https://play.google.com/store/apps/details?id=com.tistory.honeyinfo7.stopsmoking)
-
 :octocat: **블로그**
 1. [tistory 블로그](https://honeyinfo7.tistory.com/)
 2. [네이버 블로그](https://blog.naver.com/jabel123)
