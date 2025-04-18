@@ -9,7 +9,7 @@
 4. [DataSolution](http://www.datasolution.kr/) (2014.12 ~ 2016.10)    
 
 :octocat: **Blog**
-1. [tistory](https://honeyinfo7.tistory.com/)
+1. [Tistory](https://honeyinfo7.tistory.com/)
 2. [Naver](https://blog.naver.com/jabel123)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jabel123&show_icons=true&theme=radical)
