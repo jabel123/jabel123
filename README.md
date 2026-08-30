@@ -1,11 +1,3 @@
-<div align="center">
-
-# Ju Hyeontae · 주현태
-
-**Software Developer**
-
-</div>
-
 ## Experience
 
 | Period | Company | Position |
