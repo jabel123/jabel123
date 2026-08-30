@@ -1,61 +1,33 @@
-
 <div align="center">
 
 # Ju Hyeontae · 주현태
 
-### Backend Engineer
+**Software Developer**
 
-[![Blog](https://img.shields.io/badge/Tech_Blog-181717?style=for-the-badge&logo=github&logoColor=white)](https://honeyinfo7.tistory.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%ED%98%84%ED%83%9C-%EC%A3%BC-19031b13a/)
-[![Naver Blog](https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/jabel123)
+[LinkedIn](https://www.linkedin.com/in/%ED%98%84%ED%83%9C-%EC%A3%BC-19031b13a/)
 
 </div>
 
----
+## Experience
 
-## Profile
+| Period | Company | Position |
+| --- | --- | --- |
+| 2025.11 — Present | NHN Techorus Corp. | Employee |
+| 2022.04 — 2025.08 | 11street | Software Engineer |
+| 2020.02 — 2022.03 | Wemakeprice | Assistant Manager |
+| 2017.03 — 2019.08 | Yuhan Chemical | IT Manager |
+| 2014.12 — 2016.10 | OpenSNS | Software Engineer |
 
-Backend engineer with professional experience across multiple industries. Currently focused on expanding practical knowledge of AWS architecture and operations, Python-based automation, and technical communication in Japanese and English.
+## Certifications
 
-## Areas of focus
-
-- Backend application development
-- AWS architecture and cloud operations
-- Observability, reliability, security, and cost optimization
-- Python automation and tooling
-- Technical communication in Japanese and English
-
-## Career
-
-- **NHN Techorus** · 2025.11 — Present
-- **11Street** · 2022.04 — 2025.08
-- **Wemakeprice** · 2020.02 — 2022.03
-- **Yuhan Chemical** · 2017.03 — 2019.08
-- **DataSolution** · 2014.12 — 2016.10
-
-## Professional development
-
-| Area | Current focus |
-| --- | --- |
-| **AWS** | Architecture, operations, monitoring, security, and cost management |
-| **Python** | Automation, data processing, and cloud tooling |
-| **Japanese** | Business and technical communication |
-| **English** | Technical documentation and professional communication |
-
-## Career objective
-
-Develop the technical depth, cloud operations experience, and Japanese communication skills required for a future engineering role at AWS Japan.
-
-## Recent writing
-
-<!-- BLOG-POST-LIST:START -->
-_Recent posts are updated automatically._
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jabel123&show_icons=true&hide_border=true&theme=transparent)
-
-</div>
+| Issued | Certification | Issuer | Valid through |
+| --- | --- | --- | --- |
+| 2026.08 | AWS Certified Solutions Architect – Associate | Amazon Web Services | 2029.08 |
+| 2026.01 | AWS Certified Cloud Practitioner | Amazon Web Services | — |
+| 2025.01 | JLPT N2 | The Japan Foundation | No expiration |
+| 2022.09 | SQLD | Korea Data Agency | — |
+| 2020.09 | Computerized Accounting Level 2 | Korean Association of Certified Public Tax Accountants | 2025.08 |
+| 2016.02 | Computer Specialist in Spreadsheet & Database Level 2 | Korea Chamber of Commerce and Industry | No expiration |
+| 2014.09 | OCJP | Oracle | No expiration |
+| 2014.06 | Engineer Information Processing | Human Resources Development Service of Korea | No expiration |
+| 2013.03 | Word Processor | Korea Chamber of Commerce and Industry | No expiration |
