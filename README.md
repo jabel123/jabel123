@@ -4,8 +4,6 @@
 
 **Software Developer**
 
-[LinkedIn](https://www.linkedin.com/in/%ED%98%84%ED%83%9C-%EC%A3%BC-19031b13a/)
-
 </div>
 
 ## Experience
